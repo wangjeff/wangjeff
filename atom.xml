@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://wangjeff.github.io/wangjeff/atom.xml" rel="self"/>
   <link href="http://wangjeff.github.io/wangjeff/"/>
-  <updated>2016-06-04T17:01:46+08:00</updated>
+  <updated>2016-06-04T17:05:08+08:00</updated>
   <id>http://wangjeff.github.io/wangjeff/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Title_temp]]></title>
+    <link href="http://wangjeff.github.io/wangjeff/blog/2016/06/04/title-temp/"/>
+    <updated>2016-06-04T17:04:57+08:00</updated>
+    <id>http://wangjeff.github.io/wangjeff/blog/2016/06/04/title-temp</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
